@@ -38,6 +38,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     MyJetpackComposePracticeTheme {
-        Greeting("Android")
+        Greeting("Catalina")
     }
 }
